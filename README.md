@@ -1,3 +1,3 @@
-# GolangPractice
+# Golang Practice
 
-Just my practice.
+My Golang Practice code.
